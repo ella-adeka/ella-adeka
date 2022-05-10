@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Django or any tech related stuff.
-- 📫 How to reach me: @AkedaE on TWITTER
+- 🧳 Open to work with new clients.
+- 📫 How to reach me: @AkedaE on TWITTER or mail me at adekaeatwork@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
