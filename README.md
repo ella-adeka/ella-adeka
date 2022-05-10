@@ -11,3 +11,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
+![138963_original_3240x5760](https://user-images.githubusercontent.com/70539937/167733738-7b118cc1-a15a-4e31-ae2a-72b1e8ed7fd1.jpg)
