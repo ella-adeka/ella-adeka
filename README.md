@@ -1,5 +1,5 @@
-## Hi there, I'm Emmanuella, 
-### A Full Stack Web Developer
+## Hi there, I'm Emmanuella, 👋🏾 
+### Full Stack Web Developer
 
 - 🔭 I’m currently working on Rental Website with React and Django
 - 🌱 I’m currently learning jQuery
@@ -11,10 +11,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
-### Tools I Use
-___
+## Tools I Use
+
 HTML, CSS, JavaScript, React, Django, Python
 
-### Socials
-___
+## Socials
 [LinkedIn](https://www.linkedin.com/in/emmanuella-adeka-60906b230/)
