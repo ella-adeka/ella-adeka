@@ -19,4 +19,4 @@
 [LinkedIn](https://www.linkedin.com/in/emmanuella-adeka-60906b230/)
 
 
-https://visitor-badge.glitch.me/badge?page_id=ella-adeka.visitor-badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ella-adeka&left_color=green&right_color=red)
