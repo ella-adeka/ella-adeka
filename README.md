@@ -17,6 +17,7 @@
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/emmanuella-adeka-60906b230/)
+![https://camo.githubusercontent.com/2f65588c02aa906b27bc1124e08b0fbc8cbd31886e2a13fd01457c6c1b980344/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d4342344438393f7374796c653d706c6173746963266c6f676f3d63737333266c6f676f436f6c6f723d7768697465]
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ella-adeka&left_color=green&right_color=red)
