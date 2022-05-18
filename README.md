@@ -4,27 +4,26 @@
 
 - 🔭 I’m currently working on Rental Website with React and Django
 - 🌱 I’m currently learning jQuery
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌐 All my prects are available at [My Portfolio] https://adekaemmanuella.netlify.app/
 - 💬 Ask me about Django or any tech related stuff.
 - 🧳 Open to work with new clients.
 - 📫 How to reach me: mail me at adekaeatwork@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I watch movies
 
 ## Tools I Use
 
 <p align="left"> 
    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a> 
+   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/sass.png"/> 
+   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+   <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+   <img src="https://img.icons8.com/color/48/000000/django.png"/> 
+   <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+   <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> 
 
 </p>
 
