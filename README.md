@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Rental Website with React and Django
 - 🌱 I’m currently learning jQuery
-- 🌐 All my prects are available at [My Portfolio] https://adekaemmanuella.netlify.app/
+- 🌐 All my projects are available at https://adekaemmanuella.netlify.app/
 - 💬 Ask me about Django or any tech related stuff.
 - 🧳 Open to work with new clients.
 - 📫 How to reach me: mail me at adekaeatwork@gmail.com
