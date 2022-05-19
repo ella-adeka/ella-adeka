@@ -1,6 +1,7 @@
 ![Full-Stack Web Developer](https://user-images.githubusercontent.com/70539937/168696661-cabdebc1-fe70-46fd-8281-7d1e21a15793.png)
-## Hi there, 👋🏾 
 
+<br>
+## Hi there, 👋🏾 
 
 - 🔭 I’m currently working on Rental Website with React and Django
 - 🌱 I’m currently learning jQuery
@@ -10,6 +11,9 @@
 - 📫 How to reach me: mail me at adekaeatwork@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I watch movies
+
+<br>
+<br>
 
 ## 🛠 Tools I Use
 
@@ -29,6 +33,7 @@
 
 
 <br/>
+<br>
 
 ## 📊 My Github Stats
 
