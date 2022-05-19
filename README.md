@@ -1,6 +1,6 @@
 ![Full-Stack Web Developer](https://user-images.githubusercontent.com/70539937/168696661-cabdebc1-fe70-46fd-8281-7d1e21a15793.png)
 
-<br>
+
 ## Hi there, 👋🏾 
 
 - 🔭 I’m currently working on Rental Website with React and Django
