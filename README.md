@@ -11,7 +11,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I watch movies
 
-## Tools I Use
+## 🛠 Tools I Use
 
 <p align="left"> 
    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## 💬 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/emmanuella-adeka-60906b230/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
