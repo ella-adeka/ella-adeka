@@ -61,7 +61,7 @@
 ## 💬 Connect with me:
 <p align="left">
 
-<a href = "www.linkedin.com/in/emmanuella-onyowo-adeka-60906b230"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/emmanuella-onyowo-adeka-60906b230"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/AkedaE"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
