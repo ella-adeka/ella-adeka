@@ -1,16 +1,16 @@
-![Full-Stack Web Developer](https://user-images.githubusercontent.com/70539937/168696661-cabdebc1-fe70-46fd-8281-7d1e21a15793.png)
+![DevOps Engineer git](https://github.com/ella-adeka/ella-adeka/assets/70539937/eff5f1d6-cca1-4539-b883-cb2d2fd0d8f7)
 
 
 ## Hi there, 👋🏾 
 
-- 🔭 I’m currently working on Rental Website with React and Django
-- 🌱 I’m currently learning jQuery
+- 🔭 I’m currently working on deploying applications with AWS services.
+- 🌱 I’m currently learning Devops tools.
 - 🌐 All my projects are available at https://adekaemmanuella.netlify.app/
-- 💬 Ask me about Django or any tech related stuff.
+- 💬 Ask me about DevOps, Cloud, or any tech related stuff.
 - 🧳 Open to work with new clients.
 - 📫 How to reach me: mail me at adekaeatwork@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I watch movies
+- ⚡ Fun fact: I love exploring new places.
 
 <br>
 <br>
@@ -62,7 +62,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/emmanuella-onyowo-adeka-60906b230"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AkedaE"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/a_deque_a"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
