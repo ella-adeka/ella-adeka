@@ -18,22 +18,34 @@
 ## 🛠 Tools I Use
 
 <p align="left"> 
-   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-   <img src="https://img.icons8.com/color/48/000000/sass.png"/> 
-   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-   <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-   <img src="https://img.icons8.com/color/48/000000/django.png"/> 
-   <img src="https://img.icons8.com/color/48/000000/python.png"/> 
-   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> 
+   [Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+   ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 </p>
 
-
-<br/>
 <br>
+<br>
+
+## 🖊 I write at
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
+<br>
+<br/>
 
 ## 📊 My Github Stats
 
@@ -49,21 +61,21 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
-<a href="https://github.com/ella-adeka/github-readme-activity-graph"><img alt="Ella Adeka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ella-adeka&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Ella Adeka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ella-adeka&hide_border=true&theme=high-contrast)](https://github.com/ella-adeka/github-readme-activity-graph)
 
-<br/>
-<br/>
+
+<br>
+</br>
 
 ## 💬 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/emmanuella-onyowo-adeka-60906b230"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/a_deque_a"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://linktr.ee/adekaeat">![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>
+<a href = "https://www.linkedin.com/in/emmanuella-onyowo-adeka-60906b230">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ella-adeka&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=ella-adeka&color=lightgrey)
