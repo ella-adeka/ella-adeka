@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on deploying applications with AWS services.
 - 🌱 I’m currently learning Devops tools.
-- 🌐 All my projects are available at [https://adekaemmanuella.netlify.app/](https://ella-adeka.netlify.app/)
+- 🌐 All my projects are available at [https://ella-adeka.netlify.app/](https://ella-adeka.netlify.app/)
 - 💬 Ask me about DevOps, Cloud, or any tech related stuff.
 - 🧳 Open to work with new clients.
 - 📫 How to reach me: mail me at adekaeatwork@gmail.com
